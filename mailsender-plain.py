@@ -1,5 +1,5 @@
 import smtplib
-content ='hello parth go out and fuck yourself'
+content ='life is danger !! '
 mail=smtplib.SMTP('smtp.gmail.com', 587)
 mail.ehlo()
 mail.starttls()
